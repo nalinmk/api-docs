@@ -22,6 +22,6 @@ paths:
                   crid:
                     type: string
                     description: Customer Routing ID
-      description: Get information for the current customer
+      description: Get information for the current customer.
 components:
   schemas: {}
